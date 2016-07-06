@@ -1,0 +1,15 @@
+{
+  "Name": "Update attributes (feature service)",
+  "SampleName": "UpdateAttributes",
+  "Description": "TThis sample demonstrates how to edit attributes of feature in a feature layer.",
+  "Instructions": "",
+  "Type": 0,
+  "RequiresOnlineConnection":true,
+  "RequiresOfflineData":false,
+  "RequiresLocalServer":false,
+  "Image":"UpdateAttributes.jpg",
+  "Link":"",
+  "TypeLink": [""
+  ],
+ "SampleFolder":  "UpdateAttributes"
+}
